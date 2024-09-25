@@ -1,3 +1,5 @@
+#include <GeomAbs_SurfaceType.hxx>
+
 std::string SurfaceTypeName ( enum GeomAbs_SurfaceType t )
 {
 	switch (t)
